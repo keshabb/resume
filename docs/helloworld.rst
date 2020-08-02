@@ -1,7 +1,5 @@
 .. _helloworld:
  
-.. contents::
- 
 helloworld.py
 =============
  
